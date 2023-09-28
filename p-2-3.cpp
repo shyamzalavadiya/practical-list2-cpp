@@ -8,8 +8,8 @@ class temp
 };
 void temp::display()
 {
-	cout<<"Viradiya pinak"<<endl;
-	cout<<"220130318014"<<endl;
+	cout<<"zalavadiya shyam"<<endl;
+	cout<<"220130318015"<<endl;
 	cout<<"---------------------"<<endl;
 	cout<<"Hello World "<<endl;
 }
