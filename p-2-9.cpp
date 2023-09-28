@@ -5,8 +5,9 @@ float  m,n;
 main()
 {
 	// scope resolution 
-	cout<<"Viradiya pinak"<<endl;
-	cout<<"220130318014"<<endl;
+	cout<<"zalavadiya shyam"<<endl;
+	cout<<""<<endl;
+	cout<<"220130318015"<<endl;
 	cout<<"---------------------"<<endl;
 	cout<<"Enter the value of M ::  ";
 	cin>>::m;
