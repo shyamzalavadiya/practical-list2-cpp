@@ -8,8 +8,8 @@ class area
 	public:
 		void Circle(float r)
 		{
-			cout<<"Viradiya pinak"<<endl;
-	        cout<<"220130318014"<<endl;
+			cout<<"Zalavadiya Shyam"<<endl;
+	        cout<<"220130318015"<<endl;
 			cout<<"------------------"<<endl;
 			cout<<"The Radius Of Circle is::"<<PI*r*r;
 			
