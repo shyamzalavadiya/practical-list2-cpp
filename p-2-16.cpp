@@ -24,8 +24,8 @@ class area
 int main()
 {
 	area a;
-	cout<<"Viradiya pinak"<<endl;
-	cout<<"220130318014"<<endl;
+	cout<<"Zalavadiya Shyam"<<endl;
+	cout<<"220130318015"<<endl;
 	cout<<"-------------------"<<endl;
 	a.Area(2,3);
 	a.Area(4.5);
