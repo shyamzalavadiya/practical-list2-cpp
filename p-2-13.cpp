@@ -7,8 +7,8 @@ int area(float r, const float pi=3.14)
 int main()
 {
 	float r;
-	cout<<"Viradiya pinak"<<endl;
-	cout<<"220130318014"<<endl;
+	cout<<"Zalavadiya Shyam"<<endl;
+	cout<<"220130318015"<<endl;
 	cout<<"---------------------"<<endl; 	
 	cout<<"Enter The Readius of The Circle ::";
 	cin>>r;
