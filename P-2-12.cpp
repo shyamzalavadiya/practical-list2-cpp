@@ -7,8 +7,8 @@ int sum(int A,int B,int C=0,int D=0)
 }
 int main()
 {
-	cout<<"Viradiya pinak"<<endl;
-	cout<<"220130318014"<<endl;
+	cout<<"Zalavadiya Shyam"<<endl;
+	cout<<"220130318015"<<endl;
 	cout<<"---------------------"<<endl; 
 	cout<<sum(20,25) <<endl;
 	cout<<sum(20,25,75)<<endl;
