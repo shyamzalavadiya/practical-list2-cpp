@@ -4,8 +4,8 @@ int print(int &a,int &b);
 int main()
 {
 	int a,b;
-	cout<<"Viradiya pinak"<endl;
-	cout<<"220130318014"<<endl;
+	cout<<"Zalavadiya Shyam"<endl;
+	cout<<"220130318015"<<endl;
 	cout<<"-------------------"<<endl;
 	cout<<"Enter The A ::";
 	cin>>a;
