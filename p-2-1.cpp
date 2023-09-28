@@ -5,8 +5,8 @@ void fun()
 {
 	int a;	//non-static variable
 	static int b;//static variable
-	cout<<"Viradiya pinak"<<endl;
-	cout<<"220130318014"<<endl;
+	cout<<"Zalavadiya Shyam"<<endl;
+	cout<<"220130318015"<<endl;
 	cout<<"Value of a is (no-static) :: "<<a++<<endl;
 	cout<<"Value of b is (static)    :: "<<b++<<endl;
 }
